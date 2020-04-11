@@ -13,6 +13,10 @@ Paul Graham's (more digestible) 2002 summary of the former.
 
 John Nash's prescient musings about Bitcoin.  
 
-## Parallel Control
+### Parallel Control
 
 John Nash, 1954. 
+
+### Bitcoin: A Peer to Peer Electronic Cash System
+
+Satoshi Nakamoto, 2008. 
