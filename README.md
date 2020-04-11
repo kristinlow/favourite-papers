@@ -8,3 +8,11 @@ The original paper from John McCarthy, published in 1960.
 ### The Roots of LISP
 
 Paul Graham's (more digestible) 2002 summary of the former. 
+
+### Ideal Money 
+
+John Nash's prescient musings about Bitcoin.  
+
+## Parallel Control
+
+John Nash, 1954. 
